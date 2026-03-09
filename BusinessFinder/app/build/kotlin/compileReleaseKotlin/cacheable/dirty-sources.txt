@@ -1,0 +1,6 @@
+/workspaces/Client-/BusinessFinder/app/src/main/java/com/example/businessfinder/LicenseActivity.kt
+/workspaces/Client-/BusinessFinder/app/src/main/java/com/example/businessfinder/LanguageHelper.kt
+/workspaces/Client-/BusinessFinder/app/src/main/java/com/example/businessfinder/MainActivity.kt
+/workspaces/Client-/BusinessFinder/app/src/main/java/com/example/businessfinder/BusinessAdapter.kt
+/workspaces/Client-/BusinessFinder/app/src/main/java/com/example/businessfinder/Business.kt
+/workspaces/Client-/BusinessFinder/app/src/main/java/com/example/businessfinder/LicenseManager.kt

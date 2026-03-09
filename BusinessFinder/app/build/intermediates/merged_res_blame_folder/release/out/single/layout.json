@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.businessfinder.app-mergeReleaseResources-36:/layout/activity_license.xml",
+        "source": "com.example.businessfinder.app-main-38:/layout/activity_license.xml"
+    },
+    {
+        "merged": "com.example.businessfinder.app-mergeReleaseResources-36:/layout/activity_main.xml",
+        "source": "com.example.businessfinder.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.businessfinder.app-mergeReleaseResources-36:/layout/item_business.xml",
+        "source": "com.example.businessfinder.app-main-38:/layout/item_business.xml"
+    }
+]

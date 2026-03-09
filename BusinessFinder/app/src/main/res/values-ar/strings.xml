@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">الباحث عن الأعمال</string>
+    <string name="search_hint">أدخل نوع العمل...</string>
+    <string name="country">البلد</string>
+    <string name="city">المدينة</string>
+    <string name="area">المنطقة</string>
+    <string name="search_btn">بحث</string>
+    <string name="send_email">إرسال بريد إلكتروني جماعي</string>
+    <string name="send_whatsapp">إرسال واتساب جماعي</string>
+    <string name="select_all">تحديد الكل</string>
+    <string name="results_found">تم العثور على %d نشاط تجاري</string>
+    <string name="enter_business_type">الرجاء إدخال نوع العمل</string>
+    <string name="select_businesses">الرجاء تحديد نشاط تجاري واحد على الأقل</string>
+    <string name="no_emails">لم يتم العثور على عناوين بريد إلكتروني</string>
+    <string name="no_phones">لم يتم العثور على أرقام هواتف</string>
+    <string name="google_maps_key">YOUR_API_KEY</string>
+    <string name="license_activated">تم تفعيل الترخيص بنجاح</string>
+    <string name="invalid_license">رمز الترخيص غير صالح</string>
+    <string name="enter_code">الرجاء إدخال رمز الترخيص</string>
+</resources>

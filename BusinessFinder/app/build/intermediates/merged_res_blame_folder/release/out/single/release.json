@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.businessfinder.app-merged_res-37:/layout_activity_main.xml.flat",
+        "source": "com.example.businessfinder.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.businessfinder.app-merged_res-37:/layout_activity_license.xml.flat",
+        "source": "com.example.businessfinder.app-main-38:/layout/activity_license.xml"
+    },
+    {
+        "merged": "com.example.businessfinder.app-merged_res-37:/xml_backup_rules.xml.flat",
+        "source": "com.example.businessfinder.app-main-38:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.businessfinder.app-merged_res-37:/layout_item_business.xml.flat",
+        "source": "com.example.businessfinder.app-main-38:/layout/item_business.xml"
+    },
+    {
+        "merged": "com.example.businessfinder.app-merged_res-37:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.businessfinder.app-main-38:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.businessfinder.app-merged_res-37:/drawable_ic_launcher.xml.flat",
+        "source": "com.example.businessfinder.app-main-38:/drawable/ic_launcher.xml"
+    }
+]

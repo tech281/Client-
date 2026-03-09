@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">کاروبار تلاش کریں</string>
+    <string name="search_hint">کاروبار کی قسم لکھیں...</string>
+    <string name="country">ملک</string>
+    <string name="city">شہر</string>
+    <string name="area">علاقہ</string>
+    <string name="search_btn">تلاش کریں</string>
+    <string name="send_email">بلک ای میل بھیجیں</string>
+    <string name="send_whatsapp">بلک واٹس ایپ بھیجیں</string>
+    <string name="select_all">تمام منتخب کریں</string>
+    <string name="results_found">%d کاروبار ملے</string>
+    <string name="enter_business_type">براہ کرم کاروبار کی قسم لکھیں</string>
+    <string name="select_businesses">براہ کرم کم از کم ایک کاروبار منتخب کریں</string>
+    <string name="no_emails">کوئی ای میل پتہ نہیں ملا</string>
+    <string name="no_phones">کوئی فون نمبر نہیں ملا</string>
+    <string name="google_maps_key">YOUR_API_KEY</string>
+    <string name="license_activated">لائسنس کامیابی سے فعال ہو گیا</string>
+    <string name="invalid_license">غلط لائسنس کوڈ</string>
+    <string name="enter_code">براہ کرم لائسنس کوڈ درج کریں</string>
+</resources>
